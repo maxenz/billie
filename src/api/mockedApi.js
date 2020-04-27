@@ -68,8 +68,8 @@ new Server({
         });
         server.create('company', {
             id: 7,
-            name: 'JPMorgan',
-            budget: 888221.42367,
+            name: 'SpaceX',
+            budget: 884112.42367,
             budget_spent: 50334.222,
             first_purchased_date: '2119-07-07',
         });
